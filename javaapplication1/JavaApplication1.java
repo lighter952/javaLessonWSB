@@ -47,8 +47,4 @@ public class JavaApplication1 {
     }
 }
 
-        //PrintWriter writer = new PrintWriter("dane1.txt");
-        //Random generator = new Random();
-//System.out.println(list.size());
-//        list.set(5,12345);
-//        
+//list.set(5,12345);      
